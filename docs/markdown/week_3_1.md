@@ -20,6 +20,7 @@ OpenMANIPULATOR-Xは、ROSをサポートするROBOTISのオープンソース�
 $ cd ~/catkin_ws/src/
 $ git clone https://github.com/ROBOTIS-GIT/turtlebot3_manipulation.git
 $ git clone https://github.com/ROBOTIS-GIT/turtlebot3_manipulation_simulations.git
+$ git clone https://github.com/ROBOTIS-GIT/open_manipulator_dependencies.git
 $ sudo apt install ros-kinetic-ros-control && ros-kinetic-ros-controllers && ros-kinetic-control* && ros-kinetic-moveit*
 $ cd ~/catkin_ws && catkin_make
 ```
